@@ -1,6 +1,5 @@
 # wazuh-siem-graduation-project
 Xây dựng lab phát hiện tấn công mạng bằng Wazuh và ELK Stack
-# Wazuh SIEM – Attack Detection Project
 
 ## Mục tiêu
 Triển khai hệ thống SIEM dựa trên Wazuh và ELK Stack
